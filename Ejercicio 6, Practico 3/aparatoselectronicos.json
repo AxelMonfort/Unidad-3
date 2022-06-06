@@ -1,0 +1,46 @@
+{
+  "__class__": "Lista",
+  "aparato": [
+    {
+      "__class__": "Televisor",
+      "__atributos__": {
+        "marca": "philips",
+        "modelo": "fr3",
+        "color": "negro",
+        "pais": "Argentina",
+        "precio": 80000,
+        "tipoPantalla": "LCD",
+        "pulgadas": 50,
+        "definicion": "HD",
+        "conexion": "verdadero"
+      }
+    },
+    {
+      "__class__": "Heladera",
+      "__atributos__": {
+        "marca": "philips",
+        "modelo": "S78",
+        "color": "azul",
+        "pais": "corea",
+        "precio": 70500,
+        "capacidadLitros": 70,
+        "freezer": "verdadero",
+        "ciclico": "falso"
+      }
+    },
+    {
+      "__class__": "Lavarropa",
+      "__atributos__": {
+        "marca": "Samsung",
+        "modelo": "rt56",
+        "color": "blanco",
+        "pais": "EEUU",
+        "precio": 105000,
+        "capLavado": 60,
+        "velCentrifugado": 60,
+        "cantProgramas": 14,
+        "tipo": "superior"
+      }
+    }
+  ]
+}
