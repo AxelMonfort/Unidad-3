@@ -1,0 +1,59 @@
+{
+  "__class__" : "Lista",
+  "personal": [
+    {
+      "__class__": "Docente",
+      "__atributos__": {
+        "cuil": "20-455786442-3",
+        "apellido": "Monfort",
+        "nombre": "Axel",
+        "sueldo": 60000,
+        "antiguedad": 8,
+        "clases": 8,
+        "cargo": "director",
+        "catedra": "matematica"
+      }
+    },
+    {
+      "__class__":"Apoyo",
+      "__atributos__": {
+        "cuil": "20-455786456-3",
+        "apellido": "Aguero",
+        "nombre": "Paula",
+        "sueldo": 90000,
+        "antiguedad": 8,
+        "categoria": "A"
+      }
+    },
+    {
+      "__class__": "Investigador",
+      "__atributos__": {
+        "cuil": "20-455786456-3",
+        "apellido": "Carmona",
+        "nombre": "Felipe",
+        "sueldo": 50000,
+        "antiguedad": 2,
+        "area": "investigacion",
+        "tipo": "random"
+      }
+    },
+    {
+      "__class__": "DocenteInvestigador",
+      "__atributos__": {
+        "cuil": "20-455786456-3",
+        "apellido": "Gonzales",
+        "nombre": "Matias",
+        "sueldo": 120000,
+        "antiguedad": 2,
+        "clases": 10,
+        "cargo": "Profesor",
+        "catedra": "LCC",
+        "area": "Programacion",
+        "tipo": "Especializacion",
+        "categoriaD": "A",
+        "importe": 25000
+      }
+    }
+
+  ]
+}
